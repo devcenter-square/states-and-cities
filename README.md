@@ -1,4 +1,4 @@
-# states-and-cities
+# States & Cities v2 
 The repo for the version 2 of the States &amp; Cities API - Code name LocationsNG
 
 Want to contribute? Check the Contribution Guide.

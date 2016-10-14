@@ -1,0 +1,2309 @@
+{
+  "cities": [
+    {
+      "id": "47577",
+      "name": "Aba",
+      "state_id": "2647"
+    },
+    {
+      "id": "47578",
+      "name": "Amaigbo",
+      "state_id": "2647"
+    },
+    {
+      "id": "47579",
+      "name": "Arochukwu",
+      "state_id": "2647"
+    },
+    {
+      "id": "47580",
+      "name": "Bende",
+      "state_id": "2647"
+    },
+    {
+      "id": "47581",
+      "name": "Ohafia",
+      "state_id": "2647"
+    },
+    {
+      "id": "47582",
+      "name": "Okwe",
+      "state_id": "2647"
+    },
+    {
+      "id": "47583",
+      "name": "Umuahia",
+      "state_id": "2647"
+    },
+    {
+      "id": "47584",
+      "name": "Demsa",
+      "state_id": "2649"
+    },
+    {
+      "id": "47585",
+      "name": "Ganye",
+      "state_id": "2649"
+    },
+    {
+      "id": "47586",
+      "name": "Girei",
+      "state_id": "2649"
+    },
+    {
+      "id": "47587",
+      "name": "Gombi",
+      "state_id": "2649"
+    },
+    {
+      "id": "47588",
+      "name": "Jada",
+      "state_id": "2649"
+    },
+    {
+      "id": "47589",
+      "name": "Jimeta",
+      "state_id": "2649"
+    },
+    {
+      "id": "47590",
+      "name": "Lamurde",
+      "state_id": "2649"
+    },
+    {
+      "id": "47591",
+      "name": "Madagala",
+      "state_id": "2649"
+    },
+    {
+      "id": "47592",
+      "name": "Maiha",
+      "state_id": "2649"
+    },
+    {
+      "id": "47593",
+      "name": "Mubi",
+      "state_id": "2649"
+    },
+    {
+      "id": "47594",
+      "name": "Ngurore",
+      "state_id": "2649"
+    },
+    {
+      "id": "47595",
+      "name": "Numan",
+      "state_id": "2649"
+    },
+    {
+      "id": "47596",
+      "name": "Shelleng",
+      "state_id": "2649"
+    },
+    {
+      "id": "47597",
+      "name": "Song",
+      "state_id": "2649"
+    },
+    {
+      "id": "47598",
+      "name": "Toungo",
+      "state_id": "2649"
+    },
+    {
+      "id": "47599",
+      "name": "Yola",
+      "state_id": "2649"
+    },
+    {
+      "id": "47600",
+      "name": "Aguata",
+      "state_id": "2651"
+    },
+    {
+      "id": "47601",
+      "name": "Agulu",
+      "state_id": "2651"
+    },
+    {
+      "id": "47602",
+      "name": "Anambra",
+      "state_id": "2651"
+    },
+    {
+      "id": "47603",
+      "name": "Awka",
+      "state_id": "2651"
+    },
+    {
+      "id": "47604",
+      "name": "Enugu Ukwu",
+      "state_id": "2651"
+    },
+    {
+      "id": "47605",
+      "name": "Igbo Ukwu",
+      "state_id": "2651"
+    },
+    {
+      "id": "47606",
+      "name": "Ihiala",
+      "state_id": "2651"
+    },
+    {
+      "id": "47607",
+      "name": "Nkpor",
+      "state_id": "2651"
+    },
+    {
+      "id": "47608",
+      "name": "Nnewi",
+      "state_id": "2651"
+    },
+    {
+      "id": "47609",
+      "name": "Obosi",
+      "state_id": "2651"
+    },
+    {
+      "id": "47610",
+      "name": "Okija",
+      "state_id": "2651"
+    },
+    {
+      "id": "47611",
+      "name": "Okpoko",
+      "state_id": "2651"
+    },
+    {
+      "id": "47612",
+      "name": "Onitsha",
+      "state_id": "2651"
+    },
+    {
+      "id": "47613",
+      "name": "Ozubulu",
+      "state_id": "2651"
+    },
+    {
+      "id": "47614",
+      "name": "Uga",
+      "state_id": "2651"
+    },
+    {
+      "id": "47615",
+      "name": "Alkaleri",
+      "state_id": "2652"
+    },
+    {
+      "id": "47616",
+      "name": "Azare",
+      "state_id": "2652"
+    },
+    {
+      "id": "47617",
+      "name": "Bauchi",
+      "state_id": "2652"
+    },
+    {
+      "id": "47618",
+      "name": "Bogoro",
+      "state_id": "2652"
+    },
+    {
+      "id": "47619",
+      "name": "Bununu Dass",
+      "state_id": "2652"
+    },
+    {
+      "id": "47620",
+      "name": "Darazo",
+      "state_id": "2652"
+    },
+    {
+      "id": "47621",
+      "name": "Gamawa",
+      "state_id": "2652"
+    },
+    {
+      "id": "47622",
+      "name": "Ganjuwa",
+      "state_id": "2652"
+    },
+    {
+      "id": "47623",
+      "name": "Jamari",
+      "state_id": "2652"
+    },
+    {
+      "id": "47624",
+      "name": "Katagum",
+      "state_id": "2652"
+    },
+    {
+      "id": "47625",
+      "name": "Misau",
+      "state_id": "2652"
+    },
+    {
+      "id": "47626",
+      "name": "Ningi",
+      "state_id": "2652"
+    },
+    {
+      "id": "47627",
+      "name": "Tafawa Balewa",
+      "state_id": "2652"
+    },
+    {
+      "id": "47628",
+      "name": "Brass",
+      "state_id": "2653"
+    },
+    {
+      "id": "47629",
+      "name": "Ekeremor",
+      "state_id": "2653"
+    },
+    {
+      "id": "47630",
+      "name": "Nembe",
+      "state_id": "2653"
+    },
+    {
+      "id": "47631",
+      "name": "Yenagoa",
+      "state_id": "2653"
+    },
+    {
+      "id": "47632",
+      "name": "Aliade",
+      "state_id": "2654"
+    },
+    {
+      "id": "47633",
+      "name": "Gboko",
+      "state_id": "2654"
+    },
+    {
+      "id": "47634",
+      "name": "Katsina-Ala",
+      "state_id": "2654"
+    },
+    {
+      "id": "47635",
+      "name": "Makurdi",
+      "state_id": "2654"
+    },
+    {
+      "id": "47636",
+      "name": "Otukpo",
+      "state_id": "2654"
+    },
+    {
+      "id": "47637",
+      "name": "Ukum",
+      "state_id": "2654"
+    },
+    {
+      "id": "47638",
+      "name": "Zaki Biam",
+      "state_id": "2654"
+    },
+    {
+      "id": "47639",
+      "name": "Abadan",
+      "state_id": "2655"
+    },
+    {
+      "id": "47640",
+      "name": "Askira",
+      "state_id": "2655"
+    },
+    {
+      "id": "47641",
+      "name": "Bama",
+      "state_id": "2655"
+    },
+    {
+      "id": "47642",
+      "name": "Biu",
+      "state_id": "2655"
+    },
+    {
+      "id": "47643",
+      "name": "Chibok",
+      "state_id": "2655"
+    },
+    {
+      "id": "47644",
+      "name": "Damboa",
+      "state_id": "2655"
+    },
+    {
+      "id": "47645",
+      "name": "Dikwa",
+      "state_id": "2655"
+    },
+    {
+      "id": "47646",
+      "name": "Gamboru",
+      "state_id": "2655"
+    },
+    {
+      "id": "47647",
+      "name": "Gubio",
+      "state_id": "2655"
+    },
+    {
+      "id": "47648",
+      "name": "Gwoza",
+      "state_id": "2655"
+    },
+    {
+      "id": "47649",
+      "name": "Kaga",
+      "state_id": "2655"
+    },
+    {
+      "id": "47650",
+      "name": "Kala",
+      "state_id": "2655"
+    },
+    {
+      "id": "47651",
+      "name": "Konduga",
+      "state_id": "2655"
+    },
+    {
+      "id": "47652",
+      "name": "Kukawa",
+      "state_id": "2655"
+    },
+    {
+      "id": "47653",
+      "name": "Mafa",
+      "state_id": "2655"
+    },
+    {
+      "id": "47654",
+      "name": "Magumeri",
+      "state_id": "2655"
+    },
+    {
+      "id": "47655",
+      "name": "Maiduguri",
+      "state_id": "2655"
+    },
+    {
+      "id": "47656",
+      "name": "Marte",
+      "state_id": "2655"
+    },
+    {
+      "id": "47657",
+      "name": "Monguno",
+      "state_id": "2655"
+    },
+    {
+      "id": "47658",
+      "name": "Ngala",
+      "state_id": "2655"
+    },
+    {
+      "id": "47659",
+      "name": "Shani",
+      "state_id": "2655"
+    },
+    {
+      "id": "47660",
+      "name": "Agbor",
+      "state_id": "2657"
+    },
+    {
+      "id": "47661",
+      "name": "Asaba",
+      "state_id": "2657"
+    },
+    {
+      "id": "47662",
+      "name": "Bomadi",
+      "state_id": "2657"
+    },
+    {
+      "id": "47663",
+      "name": "Burutu",
+      "state_id": "2657"
+    },
+    {
+      "id": "47664",
+      "name": "Okpe",
+      "state_id": "2657"
+    },
+    {
+      "id": "47665",
+      "name": "Patani",
+      "state_id": "2657"
+    },
+    {
+      "id": "47666",
+      "name": "Sapele",
+      "state_id": "2657"
+    },
+    {
+      "id": "47667",
+      "name": "Ughelli",
+      "state_id": "2657"
+    },
+    {
+      "id": "47668",
+      "name": "Warri",
+      "state_id": "2657"
+    },
+    {
+      "id": "47669",
+      "name": "Abakaliki",
+      "state_id": "2658"
+    },
+    {
+      "id": "47670",
+      "name": "Afikpo",
+      "state_id": "2658"
+    },
+    {
+      "id": "47671",
+      "name": "Effium",
+      "state_id": "2658"
+    },
+    {
+      "id": "47672",
+      "name": "Ezza",
+      "state_id": "2658"
+    },
+    {
+      "id": "47673",
+      "name": "Ishieke",
+      "state_id": "2658"
+    },
+    {
+      "id": "47674",
+      "name": "Uburu",
+      "state_id": "2658"
+    },
+    {
+      "id": "47675",
+      "name": "Auchi",
+      "state_id": "2659"
+    },
+    {
+      "id": "47676",
+      "name": "Benin",
+      "state_id": "2659"
+    },
+    {
+      "id": "47677",
+      "name": "Ekpoma",
+      "state_id": "2659"
+    },
+    {
+      "id": "47678",
+      "name": "Igarra",
+      "state_id": "2659"
+    },
+    {
+      "id": "47679",
+      "name": "Ikpoba",
+      "state_id": "2659"
+    },
+    {
+      "id": "47680",
+      "name": "Irrua",
+      "state_id": "2659"
+    },
+    {
+      "id": "47681",
+      "name": "Sabongida",
+      "state_id": "2659"
+    },
+    {
+      "id": "47682",
+      "name": "Ubiaja",
+      "state_id": "2659"
+    },
+    {
+      "id": "47683",
+      "name": "Uromi",
+      "state_id": "2659"
+    },
+    {
+      "id": "47684",
+      "name": "Ado",
+      "state_id": "2660"
+    },
+    {
+      "id": "47685",
+      "name": "Aramoko",
+      "state_id": "2660"
+    },
+    {
+      "id": "47686",
+      "name": "Efon Alaye",
+      "state_id": "2660"
+    },
+    {
+      "id": "47687",
+      "name": "Emure",
+      "state_id": "2660"
+    },
+    {
+      "id": "47688",
+      "name": "Igbara Odo",
+      "state_id": "2660"
+    },
+    {
+      "id": "47689",
+      "name": "Igede",
+      "state_id": "2660"
+    },
+    {
+      "id": "47690",
+      "name": "Ijero",
+      "state_id": "2660"
+    },
+    {
+      "id": "47691",
+      "name": "Ikere",
+      "state_id": "2660"
+    },
+    {
+      "id": "47692",
+      "name": "Ikole",
+      "state_id": "2660"
+    },
+    {
+      "id": "47693",
+      "name": "Ilawe",
+      "state_id": "2660"
+    },
+    {
+      "id": "47694",
+      "name": "Ipoti",
+      "state_id": "2660"
+    },
+    {
+      "id": "47695",
+      "name": "Ise",
+      "state_id": "2660"
+    },
+    {
+      "id": "47696",
+      "name": "Ode",
+      "state_id": "2660"
+    },
+    {
+      "id": "47697",
+      "name": "Omuo",
+      "state_id": "2660"
+    },
+    {
+      "id": "47698",
+      "name": "Osi",
+      "state_id": "2660"
+    },
+    {
+      "id": "47699",
+      "name": "Agwa",
+      "state_id": "2661"
+    },
+    {
+      "id": "47700",
+      "name": "Aku",
+      "state_id": "2661"
+    },
+    {
+      "id": "47701",
+      "name": "Awgu",
+      "state_id": "2661"
+    },
+    {
+      "id": "47702",
+      "name": "Eha Amufu",
+      "state_id": "2661"
+    },
+    {
+      "id": "47703",
+      "name": "Enugu",
+      "state_id": "2661"
+    },
+    {
+      "id": "47704",
+      "name": "Enugu Ezike",
+      "state_id": "2661"
+    },
+    {
+      "id": "47705",
+      "name": "Enugu Ngwo",
+      "state_id": "2661"
+    },
+    {
+      "id": "47706",
+      "name": "Ezeagu",
+      "state_id": "2661"
+    },
+    {
+      "id": "47707",
+      "name": "Mberubu",
+      "state_id": "2661"
+    },
+    {
+      "id": "47708",
+      "name": "Nsukka",
+      "state_id": "2661"
+    },
+    {
+      "id": "47709",
+      "name": "Oji",
+      "state_id": "2661"
+    },
+    {
+      "id": "47710",
+      "name": "Udi",
+      "state_id": "2661"
+    },
+    {
+      "id": "47711",
+      "name": "Ako",
+      "state_id": "2662"
+    },
+    {
+      "id": "47712",
+      "name": "Deba",
+      "state_id": "2662"
+    },
+    {
+      "id": "47713",
+      "name": "Duku",
+      "state_id": "2662"
+    },
+    {
+      "id": "47714",
+      "name": "Garko",
+      "state_id": "2662"
+    },
+    {
+      "id": "47715",
+      "name": "Gombe",
+      "state_id": "2662"
+    },
+    {
+      "id": "47716",
+      "name": "Kaltungo",
+      "state_id": "2662"
+    },
+    {
+      "id": "47717",
+      "name": "Kumo",
+      "state_id": "2662"
+    },
+    {
+      "id": "47718",
+      "name": "Nafada",
+      "state_id": "2662"
+    },
+    {
+      "id": "47719",
+      "name": "Pindiga",
+      "state_id": "2662"
+    },
+    {
+      "id": "47720",
+      "name": "Aboh",
+      "state_id": "2663"
+    },
+    {
+      "id": "47721",
+      "name": "Etiti",
+      "state_id": "2663"
+    },
+    {
+      "id": "47722",
+      "name": "Ihite",
+      "state_id": "2663"
+    },
+    {
+      "id": "47723",
+      "name": "Nkwerre",
+      "state_id": "2663"
+    },
+    {
+      "id": "47724",
+      "name": "Oguta",
+      "state_id": "2663"
+    },
+    {
+      "id": "47725",
+      "name": "Okigwe",
+      "state_id": "2663"
+    },
+    {
+      "id": "47726",
+      "name": "Owerri",
+      "state_id": "2663"
+    },
+    {
+      "id": "47727",
+      "name": "Babura",
+      "state_id": "2664"
+    },
+    {
+      "id": "47728",
+      "name": "Birnin Kudu",
+      "state_id": "2664"
+    },
+    {
+      "id": "47729",
+      "name": "Buji",
+      "state_id": "2664"
+    },
+    {
+      "id": "47730",
+      "name": "Dutse",
+      "state_id": "2664"
+    },
+    {
+      "id": "47731",
+      "name": "Garki",
+      "state_id": "2664"
+    },
+    {
+      "id": "47732",
+      "name": "Gumel",
+      "state_id": "2664"
+    },
+    {
+      "id": "47733",
+      "name": "Gwaram",
+      "state_id": "2664"
+    },
+    {
+      "id": "47734",
+      "name": "Gwiwa",
+      "state_id": "2664"
+    },
+    {
+      "id": "47735",
+      "name": "Hadejia",
+      "state_id": "2664"
+    },
+    {
+      "id": "47736",
+      "name": "Jahun",
+      "state_id": "2664"
+    },
+    {
+      "id": "47737",
+      "name": "Kaugama",
+      "state_id": "2664"
+    },
+    {
+      "id": "47738",
+      "name": "Kazaure",
+      "state_id": "2664"
+    },
+    {
+      "id": "47739",
+      "name": "Keffin Hausa",
+      "state_id": "2664"
+    },
+    {
+      "id": "47740",
+      "name": "Kiyawa",
+      "state_id": "2664"
+    },
+    {
+      "id": "47741",
+      "name": "Maigatari",
+      "state_id": "2664"
+    },
+    {
+      "id": "47742",
+      "name": "Malammaduri",
+      "state_id": "2664"
+    },
+    {
+      "id": "47743",
+      "name": "Ringim",
+      "state_id": "2664"
+    },
+    {
+      "id": "47744",
+      "name": "Sule Tankarkar",
+      "state_id": "2664"
+    },
+    {
+      "id": "47745",
+      "name": "Taura",
+      "state_id": "2664"
+    },
+    {
+      "id": "47746",
+      "name": "Birnin Gwari",
+      "state_id": "2665"
+    },
+    {
+      "id": "47747",
+      "name": "Doka",
+      "state_id": "2665"
+    },
+    {
+      "id": "47748",
+      "name": "Giwa",
+      "state_id": "2665"
+    },
+    {
+      "id": "47749",
+      "name": "Gwagwada",
+      "state_id": "2665"
+    },
+    {
+      "id": "47750",
+      "name": "Hunkuyi",
+      "state_id": "2665"
+    },
+    {
+      "id": "47751",
+      "name": "Igabi",
+      "state_id": "2665"
+    },
+    {
+      "id": "47752",
+      "name": "Ikara",
+      "state_id": "2665"
+    },
+    {
+      "id": "47753",
+      "name": "Jemaa",
+      "state_id": "2665"
+    },
+    {
+      "id": "47754",
+      "name": "Kachia",
+      "state_id": "2665"
+    },
+    {
+      "id": "47755",
+      "name": "Kaduna",
+      "state_id": "2665"
+    },
+    {
+      "id": "47756",
+      "name": "Kafanchan",
+      "state_id": "2665"
+    },
+    {
+      "id": "47757",
+      "name": "Kagarko",
+      "state_id": "2665"
+    },
+    {
+      "id": "47758",
+      "name": "Kagoro",
+      "state_id": "2665"
+    },
+    {
+      "id": "47759",
+      "name": "Kaura",
+      "state_id": "2665"
+    },
+    {
+      "id": "47760",
+      "name": "Kudan",
+      "state_id": "2665"
+    },
+    {
+      "id": "47761",
+      "name": "Lere",
+      "state_id": "2665"
+    },
+    {
+      "id": "47762",
+      "name": "Makarfi",
+      "state_id": "2665"
+    },
+    {
+      "id": "47763",
+      "name": "Sabon Birnin Gwari",
+      "state_id": "2665"
+    },
+    {
+      "id": "47764",
+      "name": "Sabongari",
+      "state_id": "2665"
+    },
+    {
+      "id": "47765",
+      "name": "Sanga",
+      "state_id": "2665"
+    },
+    {
+      "id": "47766",
+      "name": "Soba",
+      "state_id": "2665"
+    },
+    {
+      "id": "47767",
+      "name": "Tudun Wada",
+      "state_id": "2665"
+    },
+    {
+      "id": "47768",
+      "name": "Zangon Katab",
+      "state_id": "2665"
+    },
+    {
+      "id": "47769",
+      "name": "Zaria",
+      "state_id": "2665"
+    },
+    {
+      "id": "47770",
+      "name": "Ajingi",
+      "state_id": "2666"
+    },
+    {
+      "id": "47771",
+      "name": "Albasu",
+      "state_id": "2666"
+    },
+    {
+      "id": "47772",
+      "name": "Bagwai",
+      "state_id": "2666"
+    },
+    {
+      "id": "47773",
+      "name": "Bebeji",
+      "state_id": "2666"
+    },
+    {
+      "id": "47774",
+      "name": "Bichi",
+      "state_id": "2666"
+    },
+    {
+      "id": "47775",
+      "name": "Bunkure",
+      "state_id": "2666"
+    },
+    {
+      "id": "47776",
+      "name": "Dambarta",
+      "state_id": "2666"
+    },
+    {
+      "id": "47777",
+      "name": "Dawakin Tofe",
+      "state_id": "2666"
+    },
+    {
+      "id": "47778",
+      "name": "Fagge",
+      "state_id": "2666"
+    },
+    {
+      "id": "47779",
+      "name": "Garko",
+      "state_id": "2666"
+    },
+    {
+      "id": "47780",
+      "name": "Garun Mallam",
+      "state_id": "2666"
+    },
+    {
+      "id": "47781",
+      "name": "Gaya",
+      "state_id": "2666"
+    },
+    {
+      "id": "47782",
+      "name": "Gezawa",
+      "state_id": "2666"
+    },
+    {
+      "id": "47783",
+      "name": "Gwarzo",
+      "state_id": "2666"
+    },
+    {
+      "id": "47784",
+      "name": "Kabo",
+      "state_id": "2666"
+    },
+    {
+      "id": "47785",
+      "name": "Kano",
+      "state_id": "2666"
+    },
+    {
+      "id": "47786",
+      "name": "Karaye",
+      "state_id": "2666"
+    },
+    {
+      "id": "47787",
+      "name": "Kibiya",
+      "state_id": "2666"
+    },
+    {
+      "id": "47788",
+      "name": "Kiru",
+      "state_id": "2666"
+    },
+    {
+      "id": "47789",
+      "name": "Kumbotso",
+      "state_id": "2666"
+    },
+    {
+      "id": "47790",
+      "name": "Kunchi",
+      "state_id": "2666"
+    },
+    {
+      "id": "47791",
+      "name": "Kura",
+      "state_id": "2666"
+    },
+    {
+      "id": "47792",
+      "name": "Madobi",
+      "state_id": "2666"
+    },
+    {
+      "id": "47793",
+      "name": "Makoda",
+      "state_id": "2666"
+    },
+    {
+      "id": "47794",
+      "name": "Nassarawa",
+      "state_id": "2666"
+    },
+    {
+      "id": "47795",
+      "name": "Rano",
+      "state_id": "2666"
+    },
+    {
+      "id": "47796",
+      "name": "Rimin Gado",
+      "state_id": "2666"
+    },
+    {
+      "id": "47797",
+      "name": "Shanono",
+      "state_id": "2666"
+    },
+    {
+      "id": "47798",
+      "name": "Sumaila",
+      "state_id": "2666"
+    },
+    {
+      "id": "47799",
+      "name": "Takai",
+      "state_id": "2666"
+    },
+    {
+      "id": "47800",
+      "name": "Tofa",
+      "state_id": "2666"
+    },
+    {
+      "id": "47801",
+      "name": "Tudun Wada",
+      "state_id": "2666"
+    },
+    {
+      "id": "47802",
+      "name": "Wudil",
+      "state_id": "2666"
+    },
+    {
+      "id": "47803",
+      "name": "Bakori",
+      "state_id": "2667"
+    },
+    {
+      "id": "47804",
+      "name": "Batsari",
+      "state_id": "2667"
+    },
+    {
+      "id": "47805",
+      "name": "Bindawa",
+      "state_id": "2667"
+    },
+    {
+      "id": "47806",
+      "name": "Cheranchi",
+      "state_id": "2667"
+    },
+    {
+      "id": "47807",
+      "name": "Dan Dume",
+      "state_id": "2667"
+    },
+    {
+      "id": "47808",
+      "name": "Danja",
+      "state_id": "2667"
+    },
+    {
+      "id": "47809",
+      "name": "Daura",
+      "state_id": "2667"
+    },
+    {
+      "id": "47810",
+      "name": "Dutsi",
+      "state_id": "2667"
+    },
+    {
+      "id": "47811",
+      "name": "Dutsin Ma",
+      "state_id": "2667"
+    },
+    {
+      "id": "47812",
+      "name": "Faskari",
+      "state_id": "2667"
+    },
+    {
+      "id": "47813",
+      "name": "Funtua",
+      "state_id": "2667"
+    },
+    {
+      "id": "47814",
+      "name": "Ingawa",
+      "state_id": "2667"
+    },
+    {
+      "id": "47815",
+      "name": "Jibiya",
+      "state_id": "2667"
+    },
+    {
+      "id": "47816",
+      "name": "Kangiwa",
+      "state_id": "2667"
+    },
+    {
+      "id": "47817",
+      "name": "Kankara",
+      "state_id": "2667"
+    },
+    {
+      "id": "47818",
+      "name": "Kankiya",
+      "state_id": "2667"
+    },
+    {
+      "id": "47819",
+      "name": "Katsina",
+      "state_id": "2667"
+    },
+    {
+      "id": "47820",
+      "name": "Kurfi",
+      "state_id": "2667"
+    },
+    {
+      "id": "47821",
+      "name": "Malumfashi",
+      "state_id": "2667"
+    },
+    {
+      "id": "47822",
+      "name": "Mani",
+      "state_id": "2667"
+    },
+    {
+      "id": "47823",
+      "name": "Mashi",
+      "state_id": "2667"
+    },
+    {
+      "id": "47824",
+      "name": "Musawa",
+      "state_id": "2667"
+    },
+    {
+      "id": "47825",
+      "name": "Rimi",
+      "state_id": "2667"
+    },
+    {
+      "id": "47826",
+      "name": "Sandamu",
+      "state_id": "2667"
+    },
+    {
+      "id": "47827",
+      "name": "Zango",
+      "state_id": "2667"
+    },
+    {
+      "id": "47828",
+      "name": "Argungu",
+      "state_id": "2668"
+    },
+    {
+      "id": "47829",
+      "name": "Augie",
+      "state_id": "2668"
+    },
+    {
+      "id": "47830",
+      "name": "Bagudo",
+      "state_id": "2668"
+    },
+    {
+      "id": "47831",
+      "name": "Birnin Kebbi",
+      "state_id": "2668"
+    },
+    {
+      "id": "47832",
+      "name": "Birnin Yauri",
+      "state_id": "2668"
+    },
+    {
+      "id": "47833",
+      "name": "Bunza",
+      "state_id": "2668"
+    },
+    {
+      "id": "47834",
+      "name": "Fakai",
+      "state_id": "2668"
+    },
+    {
+      "id": "47835",
+      "name": "Gwandu",
+      "state_id": "2668"
+    },
+    {
+      "id": "47836",
+      "name": "Jega",
+      "state_id": "2668"
+    },
+    {
+      "id": "47837",
+      "name": "Kalgo",
+      "state_id": "2668"
+    },
+    {
+      "id": "47838",
+      "name": "Koko",
+      "state_id": "2668"
+    },
+    {
+      "id": "47839",
+      "name": "Maiyema",
+      "state_id": "2668"
+    },
+    {
+      "id": "47840",
+      "name": "Sakaba",
+      "state_id": "2668"
+    },
+    {
+      "id": "47841",
+      "name": "Shanga",
+      "state_id": "2668"
+    },
+    {
+      "id": "47842",
+      "name": "Suru",
+      "state_id": "2668"
+    },
+    {
+      "id": "47843",
+      "name": "Wasagu",
+      "state_id": "2668"
+    },
+    {
+      "id": "47844",
+      "name": "Zuru",
+      "state_id": "2668"
+    },
+    {
+      "id": "47845",
+      "name": "Ajaokuta",
+      "state_id": "2669"
+    },
+    {
+      "id": "47846",
+      "name": "Ankpa",
+      "state_id": "2669"
+    },
+    {
+      "id": "47847",
+      "name": "Dekina",
+      "state_id": "2669"
+    },
+    {
+      "id": "47848",
+      "name": "Idah",
+      "state_id": "2669"
+    },
+    {
+      "id": "47849",
+      "name": "Kabba",
+      "state_id": "2669"
+    },
+    {
+      "id": "47850",
+      "name": "Koton-Karifi",
+      "state_id": "2669"
+    },
+    {
+      "id": "47851",
+      "name": "Kuroro",
+      "state_id": "2669"
+    },
+    {
+      "id": "47852",
+      "name": "Lokoja",
+      "state_id": "2669"
+    },
+    {
+      "id": "47853",
+      "name": "Mopa",
+      "state_id": "2669"
+    },
+    {
+      "id": "47854",
+      "name": "Ogaminana",
+      "state_id": "2669"
+    },
+    {
+      "id": "47855",
+      "name": "Ogori",
+      "state_id": "2669"
+    },
+    {
+      "id": "47856",
+      "name": "Okene",
+      "state_id": "2669"
+    },
+    {
+      "id": "47857",
+      "name": "Ajasse",
+      "state_id": "2670"
+    },
+    {
+      "id": "47858",
+      "name": "Ilorin",
+      "state_id": "2670"
+    },
+    {
+      "id": "47859",
+      "name": "Jebba",
+      "state_id": "2670"
+    },
+    {
+      "id": "47860",
+      "name": "Kaiama",
+      "state_id": "2670"
+    },
+    {
+      "id": "47861",
+      "name": "Lafiagi",
+      "state_id": "2670"
+    },
+    {
+      "id": "47862",
+      "name": "Offa",
+      "state_id": "2670"
+    },
+    {
+      "id": "47863",
+      "name": "Pategi",
+      "state_id": "2670"
+    },
+    {
+      "id": "47864",
+      "name": "Apapa",
+      "state_id": "2671"
+    },
+    {
+      "id": "47865",
+      "name": "Badagri",
+      "state_id": "2671"
+    },
+    {
+      "id": "47866",
+      "name": "Epe",
+      "state_id": "2671"
+    },
+    {
+      "id": "47867",
+      "name": "Ibeju",
+      "state_id": "2671"
+    },
+    {
+      "id": "47868",
+      "name": "Iganmi",
+      "state_id": "2671"
+    },
+    {
+      "id": "47869",
+      "name": "Ikeja",
+      "state_id": "2671"
+    },
+    {
+      "id": "47870",
+      "name": "Ikorodu",
+      "state_id": "2671"
+    },
+    {
+      "id": "47871",
+      "name": "Lagos",
+      "state_id": "2671"
+    },
+    {
+      "id": "47872",
+      "name": "Ojo",
+      "state_id": "2671"
+    },
+    {
+      "id": "47873",
+      "name": "Surulere",
+      "state_id": "2671"
+    },
+    {
+      "id": "47874",
+      "name": "Akwanga",
+      "state_id": "2672"
+    },
+    {
+      "id": "47875",
+      "name": "Awe",
+      "state_id": "2672"
+    },
+    {
+      "id": "47876",
+      "name": "Doma",
+      "state_id": "2672"
+    },
+    {
+      "id": "47877",
+      "name": "Keana",
+      "state_id": "2672"
+    },
+    {
+      "id": "47878",
+      "name": "Keffi",
+      "state_id": "2672"
+    },
+    {
+      "id": "47879",
+      "name": "Lafia",
+      "state_id": "2672"
+    },
+    {
+      "id": "47880",
+      "name": "Nassarawa",
+      "state_id": "2672"
+    },
+    {
+      "id": "47881",
+      "name": "Obi",
+      "state_id": "2672"
+    },
+    {
+      "id": "47882",
+      "name": "Toto",
+      "state_id": "2672"
+    },
+    {
+      "id": "47883",
+      "name": "Wamba",
+      "state_id": "2672"
+    },
+    {
+      "id": "47884",
+      "name": "Agale",
+      "state_id": "2673"
+    },
+    {
+      "id": "47885",
+      "name": "Babana",
+      "state_id": "2673"
+    },
+    {
+      "id": "47886",
+      "name": "Bida",
+      "state_id": "2673"
+    },
+    {
+      "id": "47887",
+      "name": "Bosso",
+      "state_id": "2673"
+    },
+    {
+      "id": "47888",
+      "name": "Chanchaga",
+      "state_id": "2673"
+    },
+    {
+      "id": "47889",
+      "name": "Gbako",
+      "state_id": "2673"
+    },
+    {
+      "id": "47890",
+      "name": "Kontagora",
+      "state_id": "2673"
+    },
+    {
+      "id": "47891",
+      "name": "Lapai",
+      "state_id": "2673"
+    },
+    {
+      "id": "47892",
+      "name": "Minna",
+      "state_id": "2673"
+    },
+    {
+      "id": "47893",
+      "name": "Mokwa",
+      "state_id": "2673"
+    },
+    {
+      "id": "47894",
+      "name": "New Bussa",
+      "state_id": "2673"
+    },
+    {
+      "id": "47895",
+      "name": "Rijau",
+      "state_id": "2673"
+    },
+    {
+      "id": "47896",
+      "name": "Shiroro",
+      "state_id": "2673"
+    },
+    {
+      "id": "47897",
+      "name": "Suleja",
+      "state_id": "2673"
+    },
+    {
+      "id": "47898",
+      "name": "Wushishi",
+      "state_id": "2673"
+    },
+    {
+      "id": "47899",
+      "name": "Abeokuta",
+      "state_id": "2674"
+    },
+    {
+      "id": "47900",
+      "name": "Ado Odo",
+      "state_id": "2674"
+    },
+    {
+      "id": "47901",
+      "name": "Agbara",
+      "state_id": "2674"
+    },
+    {
+      "id": "47902",
+      "name": "Aiyetoro",
+      "state_id": "2674"
+    },
+    {
+      "id": "47903",
+      "name": "Ewekoro",
+      "state_id": "2674"
+    },
+    {
+      "id": "47904",
+      "name": "Ifo",
+      "state_id": "2674"
+    },
+    {
+      "id": "47905",
+      "name": "Ijebu Igbo",
+      "state_id": "2674"
+    },
+    {
+      "id": "47906",
+      "name": "Ijebu Ode",
+      "state_id": "2674"
+    },
+    {
+      "id": "47907",
+      "name": "Ikene",
+      "state_id": "2674"
+    },
+    {
+      "id": "47908",
+      "name": "Ilaro",
+      "state_id": "2674"
+    },
+    {
+      "id": "47909",
+      "name": "Ipokia",
+      "state_id": "2674"
+    },
+    {
+      "id": "47910",
+      "name": "Odogbolu",
+      "state_id": "2674"
+    },
+    {
+      "id": "47911",
+      "name": "Owode",
+      "state_id": "2674"
+    },
+    {
+      "id": "47912",
+      "name": "Sango Ota",
+      "state_id": "2674"
+    },
+    {
+      "id": "47913",
+      "name": "Shagamu",
+      "state_id": "2674"
+    },
+    {
+      "id": "47914",
+      "name": "Akure",
+      "state_id": "2675"
+    },
+    {
+      "id": "47915",
+      "name": "Idanre",
+      "state_id": "2675"
+    },
+    {
+      "id": "47916",
+      "name": "Ikare",
+      "state_id": "2675"
+    },
+    {
+      "id": "47917",
+      "name": "Irele",
+      "state_id": "2675"
+    },
+    {
+      "id": "47918",
+      "name": "Odigbo",
+      "state_id": "2675"
+    },
+    {
+      "id": "47919",
+      "name": "Oka",
+      "state_id": "2675"
+    },
+    {
+      "id": "47920",
+      "name": "Okitipupa",
+      "state_id": "2675"
+    },
+    {
+      "id": "47921",
+      "name": "Ondo",
+      "state_id": "2675"
+    },
+    {
+      "id": "47922",
+      "name": "Owo",
+      "state_id": "2675"
+    },
+    {
+      "id": "47923",
+      "name": "Apomu",
+      "state_id": "2676"
+    },
+    {
+      "id": "47924",
+      "name": "Ede",
+      "state_id": "2676"
+    },
+    {
+      "id": "47925",
+      "name": "Ejigbo",
+      "state_id": "2676"
+    },
+    {
+      "id": "47926",
+      "name": "Erin-Oshogbo",
+      "state_id": "2676"
+    },
+    {
+      "id": "47927",
+      "name": "Gbongan",
+      "state_id": "2676"
+    },
+    {
+      "id": "47928",
+      "name": "Ife",
+      "state_id": "2676"
+    },
+    {
+      "id": "47929",
+      "name": "Ifon Osun",
+      "state_id": "2676"
+    },
+    {
+      "id": "47930",
+      "name": "Ijesha",
+      "state_id": "2676"
+    },
+    {
+      "id": "47931",
+      "name": "Ikire",
+      "state_id": "2676"
+    },
+    {
+      "id": "47932",
+      "name": "Ikirun",
+      "state_id": "2676"
+    },
+    {
+      "id": "47933",
+      "name": "Ila",
+      "state_id": "2676"
+    },
+    {
+      "id": "47934",
+      "name": "Ilesha",
+      "state_id": "2676"
+    },
+    {
+      "id": "47935",
+      "name": "Ilobu",
+      "state_id": "2676"
+    },
+    {
+      "id": "47936",
+      "name": "Inisa",
+      "state_id": "2676"
+    },
+    {
+      "id": "47937",
+      "name": "Iwo",
+      "state_id": "2676"
+    },
+    {
+      "id": "47938",
+      "name": "Modakeke",
+      "state_id": "2676"
+    },
+    {
+      "id": "47939",
+      "name": "Oke-Mesi",
+      "state_id": "2676"
+    },
+    {
+      "id": "47940",
+      "name": "Olorunda",
+      "state_id": "2676"
+    },
+    {
+      "id": "47941",
+      "name": "Olupona",
+      "state_id": "2676"
+    },
+    {
+      "id": "47942",
+      "name": "Ore",
+      "state_id": "2676"
+    },
+    {
+      "id": "47943",
+      "name": "Orolu",
+      "state_id": "2676"
+    },
+    {
+      "id": "47944",
+      "name": "Oshogbo",
+      "state_id": "2676"
+    },
+    {
+      "id": "47945",
+      "name": "Oyan",
+      "state_id": "2676"
+    },
+    {
+      "id": "47946",
+      "name": "Akinyele",
+      "state_id": "2677"
+    },
+    {
+      "id": "47947",
+      "name": "Egbeda",
+      "state_id": "2677"
+    },
+    {
+      "id": "47948",
+      "name": "Eruwa",
+      "state_id": "2677"
+    },
+    {
+      "id": "47949",
+      "name": "Fiditi",
+      "state_id": "2677"
+    },
+    {
+      "id": "47950",
+      "name": "Ibadan",
+      "state_id": "2677"
+    },
+    {
+      "id": "47951",
+      "name": "Ibeto",
+      "state_id": "2677"
+    },
+    {
+      "id": "47952",
+      "name": "Igbo Ora",
+      "state_id": "2677"
+    },
+    {
+      "id": "47953",
+      "name": "Igboho",
+      "state_id": "2677"
+    },
+    {
+      "id": "47954",
+      "name": "Iseyin",
+      "state_id": "2677"
+    },
+    {
+      "id": "47955",
+      "name": "Kajola",
+      "state_id": "2677"
+    },
+    {
+      "id": "47956",
+      "name": "Kishi",
+      "state_id": "2677"
+    },
+    {
+      "id": "47957",
+      "name": "Lalupon",
+      "state_id": "2677"
+    },
+    {
+      "id": "47958",
+      "name": "Ogbomosho",
+      "state_id": "2677"
+    },
+    {
+      "id": "47959",
+      "name": "Ogo",
+      "state_id": "2677"
+    },
+    {
+      "id": "47960",
+      "name": "Oke-Iho",
+      "state_id": "2677"
+    },
+    {
+      "id": "47961",
+      "name": "Oyo",
+      "state_id": "2677"
+    },
+    {
+      "id": "47962",
+      "name": "Shaki",
+      "state_id": "2677"
+    },
+    {
+      "id": "47963",
+      "name": "Barakin",
+      "state_id": "2678"
+    },
+    {
+      "id": "47964",
+      "name": "Bassa",
+      "state_id": "2678"
+    },
+    {
+      "id": "47965",
+      "name": "Bokkos",
+      "state_id": "2678"
+    },
+    {
+      "id": "47966",
+      "name": "Bukuru",
+      "state_id": "2678"
+    },
+    {
+      "id": "47967",
+      "name": "Jos",
+      "state_id": "2678"
+    },
+    {
+      "id": "47968",
+      "name": "Langtang",
+      "state_id": "2678"
+    },
+    {
+      "id": "47969",
+      "name": "Pankshin",
+      "state_id": "2678"
+    },
+    {
+      "id": "47970",
+      "name": "Riyom",
+      "state_id": "2678"
+    },
+    {
+      "id": "47971",
+      "name": "Shendam",
+      "state_id": "2678"
+    },
+    {
+      "id": "47972",
+      "name": "Vom",
+      "state_id": "2678"
+    },
+    {
+      "id": "47973",
+      "name": "Wase",
+      "state_id": "2678"
+    },
+    {
+      "id": "47974",
+      "name": "Abonnema",
+      "state_id": "2679"
+    },
+    {
+      "id": "47975",
+      "name": "Abua",
+      "state_id": "2679"
+    },
+    {
+      "id": "47976",
+      "name": "Ahoada",
+      "state_id": "2679"
+    },
+    {
+      "id": "47977",
+      "name": "Bonny",
+      "state_id": "2679"
+    },
+    {
+      "id": "47978",
+      "name": "Bugama",
+      "state_id": "2679"
+    },
+    {
+      "id": "47979",
+      "name": "Degema",
+      "state_id": "2679"
+    },
+    {
+      "id": "47980",
+      "name": "Egbema",
+      "state_id": "2679"
+    },
+    {
+      "id": "47981",
+      "name": "Ogu",
+      "state_id": "2679"
+    },
+    {
+      "id": "47982",
+      "name": "Okrika",
+      "state_id": "2679"
+    },
+    {
+      "id": "47983",
+      "name": "Omoko",
+      "state_id": "2679"
+    },
+    {
+      "id": "47984",
+      "name": "Opobo",
+      "state_id": "2679"
+    },
+    {
+      "id": "47985",
+      "name": "Oyigbo",
+      "state_id": "2679"
+    },
+    {
+      "id": "47986",
+      "name": "Port Harcourt",
+      "state_id": "2679"
+    },
+    {
+      "id": "47987",
+      "name": "Binji",
+      "state_id": "2680"
+    },
+    {
+      "id": "47988",
+      "name": "Bodinga",
+      "state_id": "2680"
+    },
+    {
+      "id": "47989",
+      "name": "Dange",
+      "state_id": "2680"
+    },
+    {
+      "id": "47990",
+      "name": "Gada",
+      "state_id": "2680"
+    },
+    {
+      "id": "47991",
+      "name": "Goronyo",
+      "state_id": "2680"
+    },
+    {
+      "id": "47992",
+      "name": "Gwadabawa",
+      "state_id": "2680"
+    },
+    {
+      "id": "47993",
+      "name": "Illela",
+      "state_id": "2680"
+    },
+    {
+      "id": "47994",
+      "name": "Kebbe",
+      "state_id": "2680"
+    },
+    {
+      "id": "47995",
+      "name": "Kware",
+      "state_id": "2680"
+    },
+    {
+      "id": "47996",
+      "name": "Rabah",
+      "state_id": "2680"
+    },
+    {
+      "id": "47997",
+      "name": "Raka",
+      "state_id": "2680"
+    },
+    {
+      "id": "47998",
+      "name": "Sabon Birni",
+      "state_id": "2680"
+    },
+    {
+      "id": "47999",
+      "name": "Sokoto",
+      "state_id": "2680"
+    },
+    {
+      "id": "48000",
+      "name": "Tambawel",
+      "state_id": "2680"
+    },
+    {
+      "id": "48001",
+      "name": "Tureta",
+      "state_id": "2680"
+    },
+    {
+      "id": "48002",
+      "name": "Wamako",
+      "state_id": "2680"
+    },
+    {
+      "id": "48003",
+      "name": "Wurno",
+      "state_id": "2680"
+    },
+    {
+      "id": "48004",
+      "name": "Bali",
+      "state_id": "2681"
+    },
+    {
+      "id": "48005",
+      "name": "Gashaka",
+      "state_id": "2681"
+    },
+    {
+      "id": "48006",
+      "name": "Gassol",
+      "state_id": "2681"
+    },
+    {
+      "id": "48007",
+      "name": "Ibi",
+      "state_id": "2681"
+    },
+    {
+      "id": "48008",
+      "name": "Jalingo",
+      "state_id": "2681"
+    },
+    {
+      "id": "48009",
+      "name": "Lau",
+      "state_id": "2681"
+    },
+    {
+      "id": "48010",
+      "name": "Takum",
+      "state_id": "2681"
+    },
+    {
+      "id": "48011",
+      "name": "Wukari",
+      "state_id": "2681"
+    },
+    {
+      "id": "48012",
+      "name": "Yorro",
+      "state_id": "2681"
+    },
+    {
+      "id": "48013",
+      "name": "Damaturu",
+      "state_id": "2682"
+    },
+    {
+      "id": "48014",
+      "name": "Fika",
+      "state_id": "2682"
+    },
+    {
+      "id": "48015",
+      "name": "Gashua",
+      "state_id": "2682"
+    },
+    {
+      "id": "48016",
+      "name": "Geidam",
+      "state_id": "2682"
+    },
+    {
+      "id": "48017",
+      "name": "Gorgoram",
+      "state_id": "2682"
+    },
+    {
+      "id": "48018",
+      "name": "Gujba",
+      "state_id": "2682"
+    },
+    {
+      "id": "48019",
+      "name": "Gulani",
+      "state_id": "2682"
+    },
+    {
+      "id": "48020",
+      "name": "Jakusko",
+      "state_id": "2682"
+    },
+    {
+      "id": "48021",
+      "name": "Matsena",
+      "state_id": "2682"
+    },
+    {
+      "id": "48022",
+      "name": "Nguru",
+      "state_id": "2682"
+    },
+    {
+      "id": "48023",
+      "name": "Potiskum",
+      "state_id": "2682"
+    },
+    {
+      "id": "48024",
+      "name": "Yusufari",
+      "state_id": "2682"
+    },
+    {
+      "id": "48025",
+      "name": "Anka",
+      "state_id": "2683"
+    },
+    {
+      "id": "48026",
+      "name": "Bungudu",
+      "state_id": "2683"
+    },
+    {
+      "id": "48027",
+      "name": "Chafe",
+      "state_id": "2683"
+    },
+    {
+      "id": "48028",
+      "name": "Gummi",
+      "state_id": "2683"
+    },
+    {
+      "id": "48029",
+      "name": "Gusau",
+      "state_id": "2683"
+    },
+    {
+      "id": "48030",
+      "name": "Isa",
+      "state_id": "2683"
+    },
+    {
+      "id": "48031",
+      "name": "Kaura Namoda",
+      "state_id": "2683"
+    },
+    {
+      "id": "48032",
+      "name": "Kiyawa",
+      "state_id": "2683"
+    },
+    {
+      "id": "48033",
+      "name": "Maradun",
+      "state_id": "2683"
+    },
+    {
+      "id": "48034",
+      "name": "Maru",
+      "state_id": "2683"
+    },
+    {
+      "id": "48035",
+      "name": "Shinkafe",
+      "state_id": "2683"
+    },
+    {
+      "id": "48036",
+      "name": "Talata Mafara",
+      "state_id": "2683"
+    },
+    {
+      "id": "48037",
+      "name": "Zurmi",
+      "state_id": "2683);"
+    }
+  ]
+}

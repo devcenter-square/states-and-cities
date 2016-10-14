@@ -1,0 +1,189 @@
+{
+  "states": [
+    {
+      "id": "4121",
+      "name": "Abia",
+      "country_id": "160"
+    },
+    {
+      "id": "4122",
+      "name": "Abuja Federal Capital Territor",
+      "country_id": "160"
+    },
+    {
+      "id": "4123",
+      "name": "Adamawa",
+      "country_id": "160"
+    },
+    {
+      "id": "4124",
+      "name": "Akwa Ibom",
+      "country_id": "160"
+    },
+    {
+      "id": "4125",
+      "name": "Anambra",
+      "country_id": "160"
+    },
+    {
+      "id": "4126",
+      "name": "Bauchi",
+      "country_id": "160"
+    },
+    {
+      "id": "4127",
+      "name": "Bayelsa",
+      "country_id": "160"
+    },
+    {
+      "id": "4128",
+      "name": "Benue",
+      "country_id": "160"
+    },
+    {
+      "id": "4129",
+      "name": "Borno",
+      "country_id": "160"
+    },
+    {
+      "id": "4130",
+      "name": "Cross River",
+      "country_id": "160"
+    },
+    {
+      "id": "4131",
+      "name": "Delta",
+      "country_id": "160"
+    },
+    {
+      "id": "4132",
+      "name": "Ebonyi",
+      "country_id": "160"
+    },
+    {
+      "id": "4133",
+      "name": "Edo",
+      "country_id": "160"
+    },
+    {
+      "id": "4134",
+      "name": "Ekiti",
+      "country_id": "160"
+    },
+    {
+      "id": "4135",
+      "name": "Enugu",
+      "country_id": "160"
+    },
+    {
+      "id": "4136",
+      "name": "Gombe",
+      "country_id": "160"
+    },
+    {
+      "id": "4137",
+      "name": "Imo",
+      "country_id": "160"
+    },
+    {
+      "id": "4138",
+      "name": "Jigawa",
+      "country_id": "160"
+    },
+    {
+      "id": "4139",
+      "name": "Kaduna",
+      "country_id": "160"
+    },
+    {
+      "id": "4140",
+      "name": "Kano",
+      "country_id": "160"
+    },
+    {
+      "id": "4141",
+      "name": "Katsina",
+      "country_id": "160"
+    },
+    {
+      "id": "4142",
+      "name": "Kebbi",
+      "country_id": "160"
+    },
+    {
+      "id": "4143",
+      "name": "Kogi",
+      "country_id": "160"
+    },
+    {
+      "id": "4144",
+      "name": "Kwara",
+      "country_id": "160"
+    },
+    {
+      "id": "4145",
+      "name": "Lagos",
+      "country_id": "160"
+    },
+    {
+      "id": "4146",
+      "name": "Nassarawa",
+      "country_id": "160"
+    },
+    {
+      "id": "4147",
+      "name": "Niger",
+      "country_id": "160"
+    },
+    {
+      "id": "4148",
+      "name": "Ogun",
+      "country_id": "160"
+    },
+    {
+      "id": "4149",
+      "name": "Ondo",
+      "country_id": "160"
+    },
+    {
+      "id": "4150",
+      "name": "Osun",
+      "country_id": "160"
+    },
+    {
+      "id": "4151",
+      "name": "Oyo",
+      "country_id": "160"
+    },
+    {
+      "id": "4152",
+      "name": "Plateau",
+      "country_id": "160"
+    },
+    {
+      "id": "4153",
+      "name": "Rivers",
+      "country_id": "160"
+    },
+    {
+      "id": "4154",
+      "name": "Sokoto",
+      "country_id": "160"
+    },
+    {
+      "id": "4155",
+      "name": "Taraba",
+      "country_id": "160"
+    },
+    {
+      "id": "4156",
+      "name": "Yobe",
+      "country_id": "160"
+    },
+    {
+      "id": "4157",
+      "name": "Zamfara",
+      "country_id": "160"
+    }
+  ]
+}

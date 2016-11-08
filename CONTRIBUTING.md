@@ -38,4 +38,4 @@ Before any PR is merged, the PR team will check the following:
 - [ ] Test included
 - [ ] Addition working as described
 - [ ] Addition useful to the product
-- [ ] Passed the smoke test (or any other predefined test)
+- [ ] Passed the smoke test or any other predefined test _(this will also be checked by the Test team)_

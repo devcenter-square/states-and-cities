@@ -12,7 +12,9 @@ All contributions should include tests, as the PR team will not merge your test-
 
 * [Create a GitHub account](https://github.com/) (incase you do not have one)
 * [Join DC Square](https://devcenter-square-slack.herokuapp.com/) on Slack, if you want to be a part of the background gist
-* Go through the [issues list](https://github.com/devcenter-square/states-and-cities/issues) to find a fix you can work on. You can skip this if there is a specific feature you want to add.
+* Fill the [contributors form](https://goo.gl/forms/XQO4gl7X1cnkVxmq2), to join a [team](https://github.com/devcenter-square/states-and-cities/wiki/Teams), or contribute on your own (No Man is an Island you know)
+* Go through the [workflow](https://github.com/devcenter-square/states-and-cities/wiki/Workflow) to get a sense of how the workload has been shared
+* Check the [issues list](https://github.com/devcenter-square/states-and-cities/issues) to find a fix you can work on. You can skip this if there is a specific feature you want to add.
 * Fork the repo
 * Create a branch for your addition/hot fix/feature build/bug fix on your copy of the repo using the agreed branching naming convention
 * Make your edits and additions on your branch

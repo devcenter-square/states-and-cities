@@ -20,7 +20,7 @@ All contributions should include tests, as the PR team will not merge your test-
 * PR team will check if it passes the merge test before merging
 
 
-### Branch Naming and Checkout 
+### Branch Naming and Checkout (A Proper PR)
 
 [Vincent Driessen's article on gitflow branching model](http://nvie.com/posts/a-successful-git-branching-model/) will be the PR Team's guide, and should be used by all willing contributors to this project to name the branches, to checkout and to merge their forked local copy of the repo. PRs using a different naming will not be merged. 
 
